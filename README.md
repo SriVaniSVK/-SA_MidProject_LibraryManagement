@@ -1,1 +1,1 @@
-# -SA_MidProject_LibraryManagement
+# SA_MidProject_LibraryManagement
